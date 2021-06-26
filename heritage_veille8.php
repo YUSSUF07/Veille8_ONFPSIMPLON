@@ -16,3 +16,4 @@ class Strawberry extends Fruit {
     echo "Am I a fruit or a berry? ";
   }
 }
+?>

@@ -1,8 +1,8 @@
 <?php
 class apprenant{
-    private $objet1 = "competences";
-    private $objet3 = "travail";
-    private $objet2 = "connaissance";
+    private $competences = 8;
+    private $travail = 6;
+    private $connaissance = 7;
 
     public function yobale(){
         if (isset($objet1)){
